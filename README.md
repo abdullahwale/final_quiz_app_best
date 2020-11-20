@@ -2,6 +2,4 @@
 
 # Simple Quiz App
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yItoIIVCVIE&list=PLGJPpb8f27YY-gBqVlUbWNz3Eo5IplFlT&index=65/0.jpg)](https://www.youtube.com/watch?v=yItoIIVCVIE&list=PLGJPpb8f27YY-gBqVlUbWNz3Eo5IplFlT&index=65)
